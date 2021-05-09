@@ -28,10 +28,10 @@
             av det samlade rankningsvärdet (maximalt tio poäng) när vi utser
             Årets miljöbästa kommun. Vi använder oss i denna utvärdering av
             statistik från Naturvårdsverket. Här nedan kan du se och utforska
-            2020 års poäng både visuellt och i tabellform.
+            2021 års poäng både visuellt och i tabellform.
           </p>
 
-          <h4>Mer om 2020 års statistiska klimatrankning</h4>
+          <h4>Mer om 2021 års statistiska klimatrankning</h4>
           <p>
             I årets statistiska klimatrankning har vi ett extra fokus på
             koldioxid. Vi jämför först kommunerna med varandra i de två
