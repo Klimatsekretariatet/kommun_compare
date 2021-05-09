@@ -9,7 +9,7 @@
       </a>
       <a href="https://www.klimatsekretariatet.se/">
         <img
-          src="../assets/klimat-sekretariatet-logo-red.png"
+          src="../assets/klimat-sekretariatet-logo-blue.png"
           alt="Klimat Sekretariatet logo"
         />
       </a>
@@ -33,8 +33,7 @@
 
           <h4>Mer om 2021 års statistiska klimatrankning</h4>
           <p>
-            I årets statistiska klimatrankning har vi ett extra fokus på
-            koldioxid. Vi jämför först kommunerna med varandra i de två
+            Vi jämför först kommunerna med varandra i de två
             nyckeltalen Utsläpp växthusgaser totalt och Utsläpp koldioxid
             totalt. Här jämför vi alltså såväl kommunernas samlade utsläpp av
             växthusgaser som deras samlade utsläpp av enbart koldioxid under de
